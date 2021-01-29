@@ -11,7 +11,7 @@
 3. 死神
 学过的编程语言有HTML CSS javascript
 如下所示
-```javascript
+```JavaScript
 function f(){
   console.log('hello world')
 }
